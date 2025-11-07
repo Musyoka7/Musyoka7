@@ -18,7 +18,9 @@ I'm Aex Junior Musyoka, a developer passionate about web development, software e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🏗️ Featured Project
-**Coming soon** — stay tuned for a highlight of what I'm building next.
+[![Busy Boots translation hero section](assets/busy-boots-hero.png)](https://www.busyboots.co.uk/)
+
+**Busy Boots Translation** — Next.js marketing site for an on-demand translation collective serving West Midlands councils, NHS teams, and community organisations.
 
 ## 🌐 Portfolio
 **Coming soon** — I'm polishing my personal portfolio site and will share it here soon.
