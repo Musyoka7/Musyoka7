@@ -17,10 +17,14 @@ I'm Aex Junior Musyoka, a developer passionate about web development, software e
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏗️ Featured Project
+## 🏗️ Featured Projects
 [![Busy Boots translation hero section](assets/busy-boots-hero.png)](https://www.busyboots.co.uk/)
 
 **Busy Boots Translation** — Next.js marketing site for an on-demand translation collective serving West Midlands councils, NHS teams, and community organisations.
+
+![Mytenant property management dashboard](assets/mytenant-dashboard.png)
+
+**Mytenant Property Management** — Next.js + TypeScript + React + Tailwind CSS platform that streamlines property listings, tenant onboarding, and maintenance workflows.
 
 ## 🌐 Portfolio
 **Coming soon** — I'm polishing my personal portfolio site and will share it here soon.
