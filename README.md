@@ -17,10 +17,6 @@ I'm Aex Junior Musyoka, a developer passionate about web development, software e
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musyoka7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musyoka7&layout=compact&theme=radical)
-
 ## 🏗️ Featured Project
 **Coming soon** — stay tuned for a highlight of what I'm building next.
 
